@@ -1,0 +1,37 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDEs & Herramientas (IntelliJ, VS Code, Antigravity)
+.idea/
+*.iml
+.vscode/
+.gemini/
+.agents/scratch/
+
+# Documentos de propuesta e ideas iniciales
+IDEA.html
+REQUERIMIENTOS.txt
+
+# Web / Mobile First
+node_modules/
+dist/
+build/
+.env
+.env.*
+npm-debug.log*
+
+# Kotlin / Android
+.gradle/
+*/build/
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+google-services.json
+
+# Logs y temporales
+*.log
+*.tmp
